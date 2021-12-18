@@ -19,6 +19,6 @@ v.2.0
 - [x] poprawiona walidacja dotyczaca wyboru plci
 
 v.3.0
-- [ ] obsluga uzytkownikow z USA i EUROPY (wiek)
+- [x] obsluga uzytkownikow z USA i EUROPY (wiek)
 
 Stworzono z <3 na [Uczelni](http://www.wsb.pl)
